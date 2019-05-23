@@ -1,0 +1,6 @@
+{
+  "AppName":"GSYGithubWeexApp",
+  "AppId":"com.alibaba.weex",
+  "SplashText":"GSYGithub\nWeex",
+  "WeexBundle":"index.js"
+}
